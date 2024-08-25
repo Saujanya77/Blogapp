@@ -1,0 +1,17 @@
+.form-text{
+    border: none;
+    outline: none;
+    border-bottom:3px solid black ;
+    font-size: 20px;
+    font-weight: bold;
+}
+.form-text::placeholder{
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn-outline-dark:hover{
+    font-weight: bold;
+    background-image: linear-gradient(320deg,red,purple);
+    border: none;
+    color: white;
+}

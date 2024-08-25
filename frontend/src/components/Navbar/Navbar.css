@@ -1,0 +1,11 @@
+.navbar-brand{
+    font-size: 3rem;
+}
+.navbar-nav{
+    font-size: 1.5rem;
+}
+.nav-link:hover{
+    font-weight: 500;
+    background-image: linear-gradient(to right,#A3D8F4, #E3CFFF);
+
+}

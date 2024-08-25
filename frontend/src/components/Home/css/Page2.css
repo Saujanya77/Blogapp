@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.link-front-page{
+    text-decoration: none;
+    color: rgb(92, 90, 90);
+    transition: all 0.5s;
+
+}
+.link-front-page:hover{
+    color: rgb(48, 48, 248);
+}
+hr {
+    border: none;
+    border-top: 3px solid rgb(1, 0, 4); /* Makes it bold and black */
+    margin: 20px 0;
+    width: 100%;
+  }

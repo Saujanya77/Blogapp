@@ -1,0 +1,14 @@
+.home-pg1{
+    height: 50vh;
+}
+.page1-container{
+    background-image: linear-gradient(320deg, red,purple);
+    color: white;
+    font-size: 3rem;
+    border-radius: 15px;
+}
+.page1-container h1{
+    font-size: 3rem;
+    background-image: linear-gradient(320deg, red,purple);
+
+}
